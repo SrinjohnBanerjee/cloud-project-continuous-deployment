@@ -6,6 +6,3 @@ This project demonstrates how to ensure continious Deployment using Azure Cloud.
 3.At first the hardware (server is created in the cloud) followed by choosing the software(windows 10 or any other OS) this hardware and the software should be in the same location.
 4.Then continious deployment is enabled to ensure that any change done in the github is automatically reflected in the website hosted in the cloud.
 
-Disclaimer:
-
-The website can not be accessed now due to the account type of Azure being a student account as it lacks financial support to maintain.
