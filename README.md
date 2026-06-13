@@ -8,3 +8,5 @@ This project demonstrates how to ensure continious Deployment using Azure Cloud.
 
 Disclaimer:
 Due to financial reasons and student subscription of Azure the web App of Azure cannot be found,if the subscription is purchased then deploying the webpage to Azure webapp becomes possible  however a detailed document with POC is uploaded in this repository.
+
+https://github.com/SrinjohnBanerjee/cloud-project-continuous-deployment/blob/main/clouddocumentation.docx
